@@ -43,10 +43,11 @@
             "id": "3ef2e79bde710907",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "옵시디언  Tips.md"
+                "file": "옵시디언  Tips.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "옵시디언  Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "옵시디언  Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "옵시디언  Tips.md"
+              }
             }
           },
           {
