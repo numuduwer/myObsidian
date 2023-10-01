@@ -1,15 +1,8 @@
+### 옵시디언을 사용하는 이유? 
 
-### 1. MarkDown 문법을 사용합니다.
 
-### 2. Git-Hub 연동 시 
-
-- Obsidian에서 편의를 위해 사용되는 문법은  GitHub에서 호환되지 않는다. 
-	1. 파일 참조 : 
-		옵시디언 문법 : 
-		[[옵시디언  Tips]]
-		MarkDown 문법 :
-		 
-	1. 이미지 첨부: 
-		옵시디언 문법: ![[CleanShot 2023-10-01 at 18.15.34@2x.png]]
-		MarkDown 문법: 
-	
+EverNote OneNote등 기록을 위해 여러 노트를 사용했지만
+Notion을 알게되고 난 후 지금까지 Notion만을  잘 사용하고 있었다.
+하지만 Notion은 바로 기록하는데 편하고, 깔끔한 UI, Mobile 연동 등 
+기록에는 강력하지만, notion
+![[CleanShot 2023-10-01 at 18.56.55@2x.png]]
