@@ -14,13 +14,8 @@
 ## 목차
 ### 2023년 
 #### 9월 4주차
-<details>
-	<summary>접기/펼치기</summary>
-	- Java 시작하기 
-	- Java 기초문법
-	- Git 사용방법
-	- 옵시디언 사용방법
-</details>
+ [1. Java 시작하기 전에 알아야 할 것들](.Books/Java의 신/1부_1장 JAVA 시작하기전 알아야 할 것들.md)
+[[1부_2장 JAVA 설치경로 확인하기]]
 
 
 
