@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL 글쓰기 준비.md",
+                "file": "옵시디언 사용 Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL 글쓰기 준비.md",
+                "file": "옵시디언 사용 Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL 글쓰기 준비.md",
+                "file": "옵시디언 사용 Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL 글쓰기 준비.md"
+                "file": "옵시디언 사용 Tips.md"
               }
             }
           },
@@ -213,7 +213,9 @@
   },
   "active": "8337061728d87bd0",
   "lastOpenFiles": [
+    "Books/Java의 신/2부 JAVA 기초문법.md",
     "Books/Java의 신/1부. JAVA 시작하기.md",
+    "TIL 글쓰기 준비.md",
     "README.md",
     "무제 파일.md",
     "GitHub 사용방법.md",
@@ -222,9 +224,7 @@
     "CleanShot 2023-10-01 at 18.56.55@2x.png",
     "CleanShot 2023-10-01 at 18.15.34@2x.png",
     "4. Archive/GitHub 사용방법.md",
-    "TIL 글쓰기 준비.md",
     "무제 폴더/Obsidian 사용Tip.md",
-    "Books/Java의 신/2부 JAVA 기초문법.md",
     "Books/Java의 신",
     "Books",
     "무제 폴더",
