@@ -40,8 +40,8 @@ Finder에서 직접 타이핑해서 원하는 경로를 들어갈 수 있다.
 	 cd /Library/Java/JavaVirtualMachines
 	~~~
 3. 'ls' 를 검색해 설치된 jdk 폴더를 확인한다.
-~~~
+	~~~
 	ls
-~~~
+	~~~
 
 ![800](https://i.imgur.com/0kSxiRq.png)
