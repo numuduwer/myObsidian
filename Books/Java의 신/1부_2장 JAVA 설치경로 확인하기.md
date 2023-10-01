@@ -29,18 +29,19 @@ Finder에서 직접 타이핑해서 원하는 경로를 들어갈 수 있다.
 설치한 JDK의 폴더가 나온다. 
 
 
-### 방법2. terminal에서 확인하기
+### 방법2. 터미널에서 경로 찾아가기
 
 1. 터미널을 연 후, 디렉토리 위치를 디폴트로 이동해준다. 
+	  ~~~
+	cd ~
+	  ~~~
 2. 터미널에 아래 커맨드를 입력해 해당 경로로 들어간다.
 	~~~
-	cd /Library/Java/JavaVirtualMachines
+	 cd /Library/Java/JavaVirtualMachines
 	~~~
 3. 'ls' 를 검색해 설치된 jdk 폴더를 확인한다.
-
+~~~
+ls
+~~~
 
 ![](https://i.imgur.com/0kSxiRq.png)
-
-
-
-### 방법3. 
