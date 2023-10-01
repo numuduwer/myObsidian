@@ -20,11 +20,11 @@ Finder에서 직접 타이핑해서 원하는 경로를 들어갈 수 있다.
 ~~~
 
 
-![](https://i.imgur.com/fjL2pZA.png)
+![500](https://i.imgur.com/fjL2pZA.png)
 
 해당 경로를 선택해 들어가주면,
 
-![](https://i.imgur.com/4osvObN.png)
+![500](https://i.imgur.com/4osvObN.png)
 
 설치한 JDK의 폴더가 나온다. 
 
@@ -41,7 +41,7 @@ Finder에서 직접 타이핑해서 원하는 경로를 들어갈 수 있다.
 	~~~
 3. 'ls' 를 검색해 설치된 jdk 폴더를 확인한다.
 ~~~
-ls
+	ls
 ~~~
 
-![](https://i.imgur.com/0kSxiRq.png)
+![800](https://i.imgur.com/0kSxiRq.png)
