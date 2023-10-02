@@ -36,7 +36,8 @@ ___
 ~~~
 
 
-즉, 우리가 환경변수에 Java경로를 설정하게 되면 어떤 경로에서든 JAVA 명령어를 실행할 수 있게 됩니다.  (명령어 ex. java -version)Mac환경은 터미널에 환경에 따라 (Bash, zsh) 환경변수를 설정하는 방법이 다르며, 아래 가이드는 zsh에서 환경변수를 설정하는 방법을 다루고 있습니다. 
+즉, 우리가 환경변수에 Java경로를 설정하게 되면 어떤 경로에서든 JAVA 명령어를 실행할 수 있게 됩니다.  (명령어 ex. java -version)Mac환경은 터미널에 환경에 따라 (Bash, zsh) 환경변수를 설정하는 방법이 다르며, gi
+아래 가이드는 zsh에서 환경변수를 설정하는 방법을 다루고 있습니다. 
 
 ### 설치  전 참고사항 
 
@@ -66,7 +67,7 @@ ___
 저는 이 방법으로 진행하기를 권합니다.
 #### 1. 터미널에 아래 명령어를 입력해 brew를 설치합니다.
 ~~~
-		/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 ~~~
 
@@ -77,7 +78,7 @@ ___
 
 먼저 brew가 제대로 설치 됐는지 터미널에 아래 명령어를 쳐서 확인합니다.
 ~~~
-	brew -v
+brew -v
 ~~~
 
 ![](https://i.imgur.com/Qo34bKs.png)
