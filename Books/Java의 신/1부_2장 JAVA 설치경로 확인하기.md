@@ -20,6 +20,13 @@ Finder에서 직접 타이핑해서 원하는 경로를 들어갈 수 있다.
 ~~~
 
 
+~~~
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home
+export PATH=${PATH}:$JAVA_HOME/bin
+
+~~~
+
 ![300 x 200](https://i.imgur.com/fjL2pZA.png)
 
 해당 경로를 선택해 들어가주면,

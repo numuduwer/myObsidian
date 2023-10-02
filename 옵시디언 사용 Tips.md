@@ -64,5 +64,15 @@
 
 ## 4. 그밖에 테마 설치나 플러그인 설치 후 사용하는 단축키
 
-- Things 테마에서 제공하는 단축키
+- Advanced Tables 플러그인 단축키 
+
+|단축키 |기능|
+|---|---|
+|Tab|Next Cell|
+|Shift + Tab|Previous Cell|
+|Enter|Next Row|
+|Ctrl + Shift + D|Open table controls sideba|
+
+
+- Things 테마 제공 단축키
 ![](https://i.imgur.com/xRlND97.png)
