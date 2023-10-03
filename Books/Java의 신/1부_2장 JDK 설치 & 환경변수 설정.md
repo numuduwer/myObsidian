@@ -150,3 +150,8 @@ java -version
 
 #### 7. 자바 버전을 다르게 해서 적용하는경우 
 - 바꾸고자 하는 JDK를 설치하고 위 방법을 그대로 진행하면 됩니다.
+
+
+### 참고 
+[고고마코드 블로그](https://gogoma.tistory.com/entry/MacBook-M1-openJDK-Install-Version-Change)
+
